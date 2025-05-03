@@ -1,6 +1,6 @@
 # Breast Cancer Prediction 🧬
 
-This project is a machine learning-based breast cancer classification system developed using Python and popular data science libraries. It trains a model to distinguish between malignant and benign tumors based on features extracted from breast mass images or measurements.
+This project applies **Logistic Regression**, a supervised machine learning algorithm, to predict whether a breast tumor is malignant or benign using clinical diagnostic data. The model is trained on historical labeled data and evaluated using standard classification metrics.
 
 ## 📊 Model Performance
 
